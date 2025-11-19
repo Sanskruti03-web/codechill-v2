@@ -1,0 +1,69 @@
+# Flask Core
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-CORS
+
+# Real-time Communication
+Flask-SocketIO
+python-socketio
+
+# Database
+PyMySQL
+SQLAlchemy
+
+# Authentication & JWT
+PyJWT
+Flask-JWT-Extended
+cryptography
+python-jose[cryptography]
+
+# HTTP Requests
+requests
+urllib3
+
+# Environment Management
+python-dotenv
+
+# Date/Time Utilities
+python-dateutil
+
+# JSON Web Tokens for Auth0
+authlib
+
+# Background Tasks (optional for async operations)
+celery
+redis
+
+# Development Tools
+flask-shell-ipython
+
+# API Documentation (optional)
+flask-restx
+
+# Rate Limiting
+Flask-Limiter
+
+# Security Headers
+flask-talisman
+
+# Logging
+structlog
+
+# Input Validation
+marshmallow
+flask-marshmallow
+marshmallow-sqlalchemy
+
+# Password Hashing (if needed for local auth fallback)
+bcrypt
+
+# Email (for notifications - optional)
+Flask-Mail
+
+# Task Queue (for code execution)
+rq
+
+# Production Server
+gunicorn
+eventlet
